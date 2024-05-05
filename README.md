@@ -1,4 +1,5 @@
-### Hi there 👋
+# I am a TypeScript developer (more of a JS developer cuz i hate typescript)
+# I'm currently working on a programming language for a PenguinMod extension called PenguinScript (transpiled then evaluated for performance and also cuz im too lazy to build an interpreter
 
 <!--
 **lego7set/lego7set** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
