@@ -1,5 +1,5 @@
 # I am a TypeScript developer (more of a JS developer cuz i hate typescript)
-# uhh working on SigmaLang cuz i abandoned penguinscript for now (dont ask why i named it that. it just popped in my head)
+# Working on TextScratch, a turbowarp extension that allows you to code in text, but with features of scratch
 
 <!--
 **lego7set/lego7set** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
