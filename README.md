@@ -1,5 +1,4 @@
-# I am a TypeScript developer (more of a JS developer cuz i hate typescript)
-# Working on TextScratch, a turbowarp extension that allows you to code in text, but with features of scratch
+Hello! Not currently working on anything.
 
 <!--
 **lego7set/lego7set** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
